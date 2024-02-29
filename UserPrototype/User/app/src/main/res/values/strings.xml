@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name" translatable="false">Store</string>
+
+    <string name="login" translatable="false">Login</string>
+    <string name="forgot_password" translatable="false">Forgot Password</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login_image" translatable="false">loginImage</string>
+    <string name="create_your_account" translatable="false">Create Your Account?</string>
+    <string name="click" translatable="false"><u>Click</u></string>
+
+    <string name="sign_up" translatable="false">SignUp</string>
+    <string name="first_name" translatable="false">First Name</string>
+    <string name="last_name" translatable="false">Last Name</string>
+    <string name="mobile_number" translatable="false">Mobile Number</string>
+    <string name="email_address" translatable="false">Email Address</string>
+
+    <string name="title_activity_dashboard" translatable="false">DashboardActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_order" translatable="false">Order</string>
+    <string name="menu_newOrder" translatable="false">New Order</string>
+    <string name="menu_logout" translatable="false">Logout</string>
+
+    <string name="home_second" translatable="false">Home Second</string>
+    <string name="welcome" translatable="false">Welcome</string>
+
+    <string name="profile_image" translatable="false">profileImage</string>
+    <string name="orders" translatable="false">Orders</string>
+    <string name="pending" translatable="false">Pending</string>
+    <string name="cart" translatable="false">Cart</string>
+    <string name="user_email" translatable="false">User Email</string>
+    <string name="_0" translatable="false">0</string>
+
+    <string name="order_no" translatable="false">Order No:</string>
+    <string name="view_details" translatable="false">View Details</string>
+    <string name="order_amount" translatable="false">Order Amount:</string>
+    <string name="order_status" translatable="false">Order Status:</string>
+    <string name="rup" translatable="false">₹</string>
+    <string name="scan_barcode" translatable="false">Scan QR</string>
+    <string name="order_detail" translatable="false">Order Detail</string>
+    <string name="product_image" translatable="false">Product Image</string>
+    <string name="product_name" translatable="false">Product Name</string>
+    <string name="qty_price" translatable="false">Qty/Price:</string>
+    <string name="store_name" translatable="false">Store Name:</string>
+    <string name="address" translatable="false">Address:</string>
+    <string name="store_address" translatable="false">Store Address</string>
+    <string name="email" translatable="false">Email:</string>
+    <string name="mobile" translatable="false">Mobile:</string>
+    <string name="buy_again" translatable="false">Buy Again</string>
+
+    <string name="search" translatable="false">Search</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="find_store" translatable="false">Find Store</string>
+    <string name="qty" translatable="false">Qty:</string>
+    <string name="left" translatable="false">Left</string>
+    <string name="right" translatable="false">Right</string>
+    <string name="view_cart" translatable="false">View Cart</string>
+    <string name="place_order" translatable="false">place Order</string>
+    <string name="complete" translatable="false">Complete</string>
+    <string name="custom_toast" translatable="false">Custom Toast</string>
+
+    <string name="server_msg" translatable="false">No Internet Connection</string>
+    <string name="server_msg2" translatable="false">No Data Found</string>
+
+    <string name="user_mobile" translatable="false">User Mobile</string>
+    <string name="complete_order" translatable="false">Complete Order!</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="grand_total" translatable="false">Grand Total:</string>
+    <string name="order_now" translatable="false">Order Now</string>
+    <string name="thank_you" translatable="false">Thank You</string>
+    <string name="order_id" translatable="false">Order Id</string>
+    <string name="amount" translatable="false">Amount</string>
+    <string name="order_date" translatable="false">Order Date</string>
+    <string name="item_s" translatable="false">Item(s)</string>
+    <string name="status" translatable="false">Status</string>
+    <string name="go_to_home" translatable="false">Go To Home</string>
+    <string name="cancel_order" translatable="false">Cancel Order</string>
+    <string name="product_description" translatable="false">Product Description</string>
+    <string name="back" translatable="false">Back</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="review" translatable="false">Review</string>
+    <string name="question_one" translatable="false">Q-1: Was this application helpful to let you keep your social distance?</string>
+    <string name="question_two" translatable="false">Q-2: Was this application helped you save your time than usual?</string>
+    <string name="submit" translatable="false">Submit</string>
+
+</resources>
